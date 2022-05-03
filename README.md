@@ -1,4 +1,4 @@
-# Developing Django on Repl.it
+# Aquí debemos explicar nuestro trabajo
 
 - Fork this template to get started
 - Simply hit run to start the server
